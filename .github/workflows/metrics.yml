@@ -1,41 +1,15 @@
-name: GitHub Metrics
-
+name: Latest blog post workflow
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: '0 */6 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: GitHub Metrics
-        uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: roshan3101
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_commit: >-
-            {
-              "days": 14,
-              "limit": 5,
-              "limit_languages": 8,
-              "limit_repositories": 8
-            }
-          output_action: write
-          filename: github-metrics.svg
-
-      - name: Commit files
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add github-metrics.svg
-          git diff --staged --quiet || git commit -m "Update GitHub metrics"
-          git push
+          feed_list: "https://dev.to/feed/roshan3101" # REPLACE THIS WITH YOUR LINK

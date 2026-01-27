@@ -1,148 +1,98 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+My+Profile!+😊" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Roshan%20Kumar%20Sahu&fontSize=45&fontColor=fff&animation=twinkling" />
+
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+  <p align="center">
+    <strong>I write code that works (mostly) and drink coffee that's strong (always).</strong><br />
+    <em>Full Stack Developer | Problem Solver | Tech Explorer</em>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/roshan3101"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/roshan-kumar-sahu-60069628a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:imroshansahu31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://roshan-kumar-sahu.vercel.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  </p>
 </div>
 
-###
+---
 
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshan3101&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan3101&theme=radical&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roshan3101&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+</p>
+
+---
+
+### 🛠 My Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>Frontend</strong></td>
+    <td align="center" width="33%"><strong>Backend</strong></td>
+    <td align="center" width="33%"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,mongodb,postgres" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode,github" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <strong>Currently Experimenting With:</strong><br />
+  <img src="https://skillicons.dev/icons?i=nextjs,kubernetes,threejs,tensorflow" />
+</p>
+
+---
+
+### 🔄 Dynamic Activity
 <div align="center">
-  <h2>👨‍💻 About Me</h2>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h4>👾 Contribution Snake</h4>
+        <img src="https://raw.githubusercontent.com/roshan3101/roshan3101/output/github-contribution-grid-snake-dark.svg" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <h4>🎵 Now Playing</h4>
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31esayapy5fxlltt2dhblbnugt5a&count=1" width="300px" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
+### 📝 Latest Insights & More
 <div align="center">
-  <p>🔭 I'm currently working on exciting projects and exploring new technologies</p>
-  <p>🌱 I'm currently learning and improving my skills in software development</p>
-  <p>👯 I'm looking to collaborate on open-source projects</p>
-  <p>💬 Ask me about coding, technology, or anything you'd like to discuss!</p>
-  <p>⚡ Fun fact: I love solving complex problems and building innovative solutions</p>
+  <img src="https://github-readme-rss.vercel.app/api?username=roshan3101&theme=radical" width="400px" />
 </div>
 
-###
+<details>
+  <summary align="center"><strong>⚡ Click for Fun Facts & More</strong></summary>
+  <br />
+  
+  - 🔭 **Current Focus:** Building scalable web architectures.
+  - 🌱 **Learning:** Mastering Cloud Native patterns.
+  - 👯 **Collaboration:** Open for Open Source projects!
+  - ⚡ **Fun Fact:** I solve complex bugs faster than I can decide what to eat for lunch.
+</details>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan3101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan3101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=roshan3101&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/roshan3101/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/roshan3101/roshan3101/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan3101&custom_title=Roshan's%20Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
-</div>
-
-###
-
-<div align="center">
-  <h1>🛠️ Tech Stack</h1>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="center">
-  <h1>🔥 GitHub Trophies</h1>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roshan3101&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
-###
-
-<div align="center">
-  <h1>📊 GitHub Metrics</h1>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/roshan3101/roshan3101/main/github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
-###
-
-<div align="center">
-  <h1>💬 Let's Connect!</h1>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://github.com/roshan3101" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <h1>⚡ Fun Facts</h1>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username" alt="Spotify recently played" />
-</div>
-
-###
-
-<div align="center">
-  <h3>✨ Thanks for visiting my profile! ✨</h3>
-  <p>Feel free to reach out if you want to collaborate or just say hi! 👋</p>
+  <img src="https://readme-typing-svg.vercel.app/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✨;Let's+build+something+great.+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
 </div>
