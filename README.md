@@ -23,9 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan3101&theme=radical&layout=compact&hide_border=true" height="165" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roshan3101&theme=radical&no-frame=true&no-bg=true" alt="Roshan's Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan3101&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -66,12 +66,17 @@
         <img src="https://raw.githubusercontent.com/roshan3101/roshan3101/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
       </td>
       <td width="50%" align="center">
-        <h4>🎵 Now Playing</h4>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31esayapy5fxlltt2dhblbnugt5a&count=1&unique=true" width="300px" alt="Spotify" />
+        <h4>👀 Profile Views</h4>
+        <img src="https://komarev.com/ghpvc/?username=roshan3101&color=blueviolet&style=for-the-badge" alt="Views" />
+        <br /><br />
+        <a href="https://www.buymeacoffee.com/roshan3101">
+          <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
+
 ---
 
 ### 📝 Latest Insights & More
