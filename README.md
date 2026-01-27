@@ -11,7 +11,7 @@
     <a href="https://github.com/roshan3101"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/roshan-kumar-sahu-60069628a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:imroshansahu31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://roshan-kumar-sahu.vercel.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://roshan-kumar-sahu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   </p>
 </div>
 
@@ -23,9 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan3101&theme=radical&layout=compact&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roshan3101&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roshan3101&theme=radical&no-frame=true&no-bg=true" alt="Roshan's Trophies" />
+</div>
 
 ---
 
@@ -63,16 +63,15 @@
     <tr>
       <td width="50%" align="center">
         <h4>👾 Contribution Snake</h4>
-        <img src="https://raw.githubusercontent.com/roshan3101/roshan3101/output/github-contribution-grid-snake-dark.svg" width="100%" />
+        <img src="https://raw.githubusercontent.com/roshan3101/roshan3101/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
       </td>
       <td width="50%" align="center">
         <h4>🎵 Now Playing</h4>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31esayapy5fxlltt2dhblbnugt5a&count=1" width="300px" />
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31esayapy5fxlltt2dhblbnugt5a&count=1&unique=true" width="300px" alt="Spotify" />
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 ### 📝 Latest Insights & More
