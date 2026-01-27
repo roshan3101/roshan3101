@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan3101&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=roshan3101&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,8 +69,8 @@
         <h4>👀 Profile Views</h4>
         <img src="https://komarev.com/ghpvc/?username=roshan3101&color=blueviolet&style=for-the-badge" alt="Views" />
         <br /><br />
-        <a href="https://www.buymeacoffee.com/roshan3101">
-          <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+        <a href="https://www.buymeacoffee.com/roshan3101" target="_blank">
+          <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
         </a>
       </td>
     </tr>
@@ -83,6 +83,15 @@
 <div align="center">
   <img src="https://github-readme-rss.vercel.app/api?username=roshan3101&theme=radical" width="400px" />
 </div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roshan3101&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
 
 <details>
   <summary align="center"><strong>⚡ Click for Fun Facts & More</strong></summary>
