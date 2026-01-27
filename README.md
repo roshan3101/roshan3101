@@ -79,22 +79,35 @@
 
 ---
 
-<!-- 
-  RSS Feed Section - Uncomment when you have a valid RSS feed URL
-  To enable: 
-  1. Get your blog RSS feed URL (e.g., from dev.to, Medium, Hashnode, etc.)
-  2. Update the workflow file: .github/workflows/metrics.yml
-  3. Uncomment the section below
--->
-<!--
-### 📝 Latest Insights & More
+### 🚀 Featured Repositories
 <div align="center">
-  <img src="https://github-readme-rss.vercel.app/api?username=roshan3101&theme=radical" width="400px" />
+  <a href="https://github.com/roshan3101/CollabTask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshan3101&repo=CollabTask&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/roshan3101/IntelliScrape">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshan3101&repo=IntelliScrape&theme=radical&hide_border=true" />
+  </a>
 </div>
--->
 
 ---
 
+### 📊 Coding Activity & Inspiration
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <strong>⌚ Weekly Languages</strong><br /><br />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=roshan3101&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
+      </td>
+      <td width="50%" align="center">
+        <strong>💬 Daily Insight</strong><br /><br />
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Developer Quote" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 <details>
   <summary align="center"><strong>⚡ Click for Fun Facts & More</strong></summary>
