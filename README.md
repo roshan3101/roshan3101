@@ -79,19 +79,22 @@
 
 ---
 
+<!-- 
+  RSS Feed Section - Uncomment when you have a valid RSS feed URL
+  To enable: 
+  1. Get your blog RSS feed URL (e.g., from dev.to, Medium, Hashnode, etc.)
+  2. Update the workflow file: .github/workflows/metrics.yml
+  3. Uncomment the section below
+-->
+<!--
 ### 📝 Latest Insights & More
 <div align="center">
   <img src="https://github-readme-rss.vercel.app/api?username=roshan3101&theme=radical" width="400px" />
 </div>
+-->
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roshan3101&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
 
 <details>
   <summary align="center"><strong>⚡ Click for Fun Facts & More</strong></summary>
@@ -108,4 +111,4 @@
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✨;Let's+build+something+great.+🚀" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
-</div>README updated at Tue Jan 27 18:42:12 UTC 2026
+</div>

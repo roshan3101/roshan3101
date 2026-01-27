@@ -1,15 +1,25 @@
-name: Latest blog post workflow
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+# RSS Feed Workflow - DISABLED
+# To enable this workflow:
+# 1. Get your blog RSS feed URL from your blogging platform
+#    - Dev.to: https://dev.to/feed/YOUR_USERNAME (if you have posts)
+#    - Medium: https://medium.com/feed/@YOUR_USERNAME
+#    - Hashnode: https://YOUR_USERNAME.hashnode.dev/rss.xml
+#    - Your own blog: https://yourblog.com/rss.xml or /feed.xml
+# 2. Uncomment the workflow below and replace the feed_list URL
+# 3. Uncomment the RSS feed section in README.md
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://dev.to/feed/roshan3101" # REPLACE THIS WITH YOUR LINK
+# name: Latest blog post workflow
+# on:
+#   schedule:
+#     - cron: '0 * * * *'
+#   workflow_dispatch:
+# 
+# jobs:
+#   update-readme-with-blog:
+#     name: Update this repo's README with latest blog posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+#       - uses: gautamkrishnar/blog-post-workflow@v1
+#         with:
+#           feed_list: "YOUR_RSS_FEED_URL_HERE"
