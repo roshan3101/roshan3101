@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠 My Arsenal
+### 🛠️ My Arsenal
 
 <table align="center">
   <tr>
@@ -57,7 +57,7 @@
 
 ---
 
-### 🔄 Dynamic Activity
+### 🔥 Dynamic Activity
 <div align="center">
   <table width="100%">
     <tr>
@@ -91,7 +91,7 @@
 
 ---
 
-### 📊 Coding Activity & Inspiration
+### 📈 Coding Activity & Inspiration
 <div align="center">
   <table width="100%">
     <tr>
