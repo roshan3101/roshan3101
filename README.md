@@ -97,7 +97,7 @@
     <tr>
       <td width="50%" align="center">
         <strong>⌚ Weekly Languages</strong><br /><br />
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=roshan3101&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=roshan3101&range=last_7_days&theme=radical&layout=compact&hide_border=true&cache_seconds=1800" alt="WakaTime Stats" />
       </td>
       <td width="50%" align="center">
         <strong>💬 Daily Insight</strong><br /><br />
@@ -118,7 +118,6 @@
   - 👯 **Collaboration:** Open for Open Source projects!
   - ⚡ **Fun Fact:** I solve complex bugs faster than I can decide what to eat for lunch.
 </details>
-
 
 <br />
 
