@@ -33,26 +33,32 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><strong>Frontend</strong></td>
-    <td align="center" width="33%"><strong>Backend</strong></td>
-    <td align="center" width="33%"><strong>Tools</strong></td>
+    <td align="center" width="33%"><strong>Frontend</strong><br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,ts,js,html,css" />
+    </td>
+    <td align="center" width="33%"><strong>Backend & APIs</strong><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,py,java,spring,mongodb,postgres" />
+    </td>
+    <td align="center" width="33%"><strong>Cloud & DevOps</strong><br />
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux" />
+    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" />
+    <td align="center"><strong>Data & ML</strong><br />
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,opencv" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,mongodb,postgres" />
+    <td align="center"><strong>Testing & Quality</strong><br />
+      <img src="https://skillicons.dev/icons?i=jest,pytest,postman,cypress" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode,github" />
+    <td align="center"><strong>Design & Mobile</strong><br />
+      <img src="https://skillicons.dev/icons?i=reactnative,figma,xd,unity" />
     </td>
   </tr>
 </table>
 
 <p align="center">
   <strong>Currently Experimenting With:</strong><br />
-  <img src="https://skillicons.dev/icons?i=nextjs,kubernetes,threejs,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=threejs,tensorflow,wasm,deno" />
 </p>
 
 ---
